@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/profileApp-react/static/css/main.bea1a522.css",
+    "main.js": "/profileApp-react/static/js/main.a5d19819.js",
+    "static/js/787.d39dd884.chunk.js": "/profileApp-react/static/js/787.d39dd884.chunk.js",
+    "static/media/profile2.png": "/profileApp-react/static/media/profile2.ca58261a3609ad40621b.png",
+    "static/media/profile3.png": "/profileApp-react/static/media/profile3.5c771fa6ea520e9f8a33.png",
+    "static/media/profile1.png": "/profileApp-react/static/media/profile1.04d7a05aaa0c82523667.png",
+    "static/media/paramita2.jpg": "/profileApp-react/static/media/paramita2.eb3ffea8c0d0ffc67f45.jpg",
+    "static/media/paramita.jpg": "/profileApp-react/static/media/paramita.ca1c1f07a4105480afc4.jpg",
+    "static/media/paramita1.jpg": "/profileApp-react/static/media/paramita1.c103a379328697ef2573.jpg",
+    "index.html": "/profileApp-react/index.html",
+    "main.bea1a522.css.map": "/profileApp-react/static/css/main.bea1a522.css.map",
+    "main.a5d19819.js.map": "/profileApp-react/static/js/main.a5d19819.js.map",
+    "787.d39dd884.chunk.js.map": "/profileApp-react/static/js/787.d39dd884.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bea1a522.css",
+    "static/js/main.a5d19819.js"
+  ]
+}
